@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #313131;
+}
+.storage{
+    text-align: center;
+    width: 600px;
+    padding: 3rem;
+    border-radius: 15px;
+    box-shadow: 0 0 20px 10px  rgb(0, 0, 0);
+    background-image: linear-gradient(to bottom, #fdfbfb 0%, #ebedee 100%);
+}
+
+  
